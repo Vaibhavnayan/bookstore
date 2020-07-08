@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/vnayan/Python_Udemy/Basics/tkinter/Book_Store/dist/frontend',
+   'EXECUTABLE')],)
